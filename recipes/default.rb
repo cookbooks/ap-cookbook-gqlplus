@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 
-%w{ ark build-essential readline gqlplus }.each do |cb|
+%w{ ark build-essential readline ncurses gqlplus }.each do |cb|
   include_recipe cb
 end
 
