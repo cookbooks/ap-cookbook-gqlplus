@@ -17,5 +17,5 @@
 # limitations under the License.
 #
 
-default['gqlplus']['url'] = "http://downloads.sourceforge.net/project/gqlplus/gqlplus/1.14/gqlplus-1.14.tar.gz"
-default['gqlplus']['checksum'] = "34ed7bbacb95c260ce078c6f246dd3cf823ade930a1b65dc8c563353d22de99a"
+default['gqlplus']['url'] = "http://downloads.sourceforge.net/project/gqlplus/gqlplus/1.15/gqlplus-1.15.tar.gz"
+default['gqlplus']['checksum'] = "9a539cdcf952b4acd2ae2d940772366bf6c9ee0fb51846c02d3c7dc1df3056d5"
